@@ -1,4 +1,20 @@
 ### Hi there 👋
+I like to code and develop software.
+
+
+
+
+
+
+
+
+
+
+
+Experience in using: 
+1) ASP.NET Core
+2) Node Js
+3) React
 
 <!--
 **aleksandr-shel/aleksandr-shel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
