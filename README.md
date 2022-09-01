@@ -2,7 +2,7 @@
 I like to code and develop software.
 
 
-
+![](https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png)
 
 
 
