@@ -3,7 +3,7 @@
 **Full Stack Developer, Software Engineer**
 
 `#0969DA`
-![](https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png)
+<!--![](https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png) -->
 
 
 
