@@ -1,11 +1,7 @@
-**Aleksandr Shelukheev**
+**Hello There🤘**
+My name is Aleksandr Shelukheev, Full Stack Developer. Recently graduated from Centennial College, Toronto, Canada. Also studied Applied Physics and Math in Saint-Petersburg, Russia. 
 
-**Full Stack Developer, Software Engineer**
-
-Hello There🤘
-I am Aleksandr Shelukheev, Full Stack Developer. Recently graduated from Centennial College, Toronto, Canada. Also studied Applied Physics and Math in Saint-Petersburg, Russia. 
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,cs,ts,html,css,dotnet,nodejs,react)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandr-shel)](https://github.com/anuraghazra/github-readme-stats)
 
