@@ -8,4 +8,4 @@ My name is Aleksandr Shelukheev, Full Stack Developer. Recently graduated from C
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandr-shel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--![](https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png) -->
-https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/alex-shel/
+https://www.linkedin.com/sharing/share-offsite/?url={https://www.linkedin.com/in/alex-shel/}
