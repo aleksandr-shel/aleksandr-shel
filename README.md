@@ -9,5 +9,5 @@ My name is Aleksandr Shelukheev, Full Stack Developer. Recently graduated from C
 
 <!--![](https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png) -->
 
-##Find me
+**Find me**
 <a target=”_blank” href="https://www.linkedin.com/in/alex-shel"/><img src="https://user-images.githubusercontent.com/89428637/176028054-773c216e-ca07-4ad2-9755-2648f3316f78.png" width="5%" ></a>
