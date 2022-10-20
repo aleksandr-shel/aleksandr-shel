@@ -11,6 +11,8 @@ My name is Aleksandr Shelukheev, Full Stack Developer. Recently graduated from C
 
 <!--![](https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png) -->
 
+![](https://komarev.com/ghpvc/?username=aleksandr-shel)
+
 <p>
   Find me here
 </p>
