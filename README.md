@@ -1,5 +1,5 @@
 **Hello There🤘**
-My name is Aleksandr Shelukheev, Full Stack Developer. Recently graduated from Centennial College, Toronto, Canada. Also studied Applied Physics and Math in Saint-Petersburg, Russia. 
+My name is Aleksandr Shelukheev, Full Stack Developer.
 
 <p>Languages and Frameworks</p>
 
